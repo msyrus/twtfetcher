@@ -17,3 +17,4 @@
 *.env
 *.log
 rethinkdb_data
+vendor
